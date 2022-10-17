@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aries Chen.
+- 👋 Hi, I’m Aries Chen. I am a student of China University of Petroleum.
 - 👀 I’m interested in Geophysics.
-- 📫 How to reach me s15010125@s.upc.edu.cn.
+- 📫 Email: s15010125@s.upc.edu.cn.
 
 <!---
 AriesChen-UPC/AriesChen-UPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

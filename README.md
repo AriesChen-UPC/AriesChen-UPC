@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aries Chen (@AriesChen-UPC). 
-- 🎓 Alumnus of China University of Petroleum (UPC).
-- 💻 Currently working as an Algorithm Engineer, specializing in Industrial Computer Vision (CV).
-- 🔬 Passionate about solving visual texture problems from a frequency-domain perspective.
+- 🎓 Alumnus of China University of Petroleum.
+- 💻 Algorithm Engineer focused on Industrial Computer Vision and MLOps.
+- 🛠️ Expert in developing end-to-end CV pipelines, leveraging Transfer Learning to solve diverse CV challenges.
+- 📈 Experienced in deploying high-performance models (YOLO/DETR) for automotive and manufacturing industries.
 - 🏃‍♂️ Marathon runner & outdoor enthusiast.
 
 

@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Aries Chen. 
-- 🔭 I am a student of China University of Petroleum.
-- 👀 I’m interested in Geophysics and Marathon.
+- 👋 Hi, I’m Aries Chen (@AriesChen-UPC). 
+- 🎓 Alumnus of China University of Petroleum (UPC).
+- 💻 Currently working as an Algorithm Engineer, specializing in Industrial Computer Vision (CV).
+- 🔬 Passionate about solving visual texture problems from a frequency-domain perspective.
+- 🏃‍♂️ Marathon runner & outdoor enthusiast.
 
 
 <!---
